@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Med.bl/nbproject/private/
+/Med.JJ/nbproject/private/
+/MED.FX/nbproject/private/
+/MED.FX/dist/
+/MED.FX/build/
+/MEDY.FX/nbproject/private/
+/MEDY.FX/dist/
+/MEDY.FX/build/
+/Med.JJ/dist/
+/Med.JJ/build/
